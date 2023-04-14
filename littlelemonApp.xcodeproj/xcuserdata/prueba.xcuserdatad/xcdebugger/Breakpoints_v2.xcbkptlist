@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "253D2444-C06B-4BBB-BF7C-B46CCA982F72"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2B1A4494-3DFB-4A6D-B47C-D20BC5006A03"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "littlelemonApp/Menu.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "Menu"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "2B1A4494-3DFB-4A6D-B47C-D20BC5006A03 - 72b309a5f08126a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "littlelemonApp.Menu.init() -&gt; littlelemonApp.Menu"
+                  moduleName = "littlelemonApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prueba/Desktop/littlelemonApp/littlelemonApp/Menu.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "184">
+               </Location>
+               <Location
+                  uuid = "2B1A4494-3DFB-4A6D-B47C-D20BC5006A03 - 3af780ffe63dc348"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "littlelemonApp.Menu.init(path: SwiftUI.NavigationPath) -&gt; littlelemonApp.Menu"
+                  moduleName = "littlelemonApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prueba/Desktop/littlelemonApp/littlelemonApp/Menu.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
